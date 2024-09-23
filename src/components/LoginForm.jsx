@@ -41,7 +41,7 @@ const LoginForm = ({ onClose }) => {
                 {/* Croix pour fermer le formulaire */}
                 <button
                     onClick={onClose}
-                    className="absolute top-2 right-2 text-red-500 hover:text-red-700"
+                    className="absolute top-4 right-4 text-red-500 hover:text-red-700"
                 >
                     <FiX className="w-6 h-6" />
                 </button>
