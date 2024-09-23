@@ -16,3 +16,7 @@ npm install -D tailwindcss postcss autoprefixer
 ```bash
 npx tailwindcss init -p
 ```
+**Installer React Icons**
+```bash
+npm install react-icons
+```
